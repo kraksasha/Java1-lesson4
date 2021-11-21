@@ -163,6 +163,7 @@ public class KreNu {
         if (k == SIZE){
             return true;
         }
+
         return false;
     }
 }
